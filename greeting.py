@@ -4,3 +4,5 @@ def greet(name):
 greet("Fatih Kurtoglu")
 
 greet("Kairat Sabyrov")
+
+greet("Fatih Cansizoglu")
